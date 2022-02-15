@@ -95,7 +95,7 @@ The sudoku entry created in this section will randomly select numbers to be solv
 
 	print(f'\nIn grid, there are {ZEROS} zeros.\n')
 
-### Building Sudoku (Grid) Solver
+###  3. Building Sudoku (Grid) Solver
 
 Finally, the algorithm that solves the values ​​assigned zero is created.
 
